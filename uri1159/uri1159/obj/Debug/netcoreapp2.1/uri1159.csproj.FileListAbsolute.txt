@@ -1,0 +1,12 @@
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\bin\Debug\netcoreapp2.1\uri1159.deps.json
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\bin\Debug\netcoreapp2.1\uri1159.runtimeconfig.json
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\bin\Debug\netcoreapp2.1\uri1159.runtimeconfig.dev.json
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\bin\Debug\netcoreapp2.1\uri1159.dll
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\bin\Debug\netcoreapp2.1\uri1159.pdb
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.csproj.AssemblyReference.cache
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.AssemblyInfoInputs.cache
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.AssemblyInfo.cs
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.csproj.CoreCompileInputs.cache
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.dll
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.pdb
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\curso-logica-de-programacao-csharp-master\curso-logica-de-programacao-csharp-master\uri1159\uri1159\obj\Debug\netcoreapp2.1\uri1159.genruntimeconfig.cache

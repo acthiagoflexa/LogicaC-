@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qq4MOa0WNhgQ6hta7pFFuoFYGABhiNc+6U++ghVJ78w2CPNih/Mcqg2chVfZx9uxh87FhiX2YH4v1qMeExB/dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N.A.V.E\\OneDrive\\Área de Trabalho\\Curso de Logíca C#\\curso-logica-de-programacao-csharp-master\\curso-logica-de-programacao-csharp-master\\uri1159\\uri1159\\uri1159.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\N.A.V.E\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
