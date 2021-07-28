@@ -1,0 +1,12 @@
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.csproj.AssemblyReference.cache
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\Users\N.A.V.E\OneDrive\Área de Trabalho\Curso de Logíca C#\Estrutura Condicional\Nova pasta\encapsulamento1-csharp-master\encapsulamento1-csharp-master\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache
