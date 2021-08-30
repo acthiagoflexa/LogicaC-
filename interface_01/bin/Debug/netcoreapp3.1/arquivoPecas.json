@@ -1,0 +1,62 @@
+[
+  {
+    "codigo": 1,
+    "descricao": "Lateral",
+    "ladoA": 12,
+    "ladoB": 15
+  },
+  {
+    "codigo": 3,
+    "descricao": "Lateral BB",
+    "ladoA": 12.2,
+    "ladoB": 15.3
+  },
+  {
+    "codigo": 4,
+    "descricao": "Lateral Nova",
+    "ladoA": 45,
+    "ladoB": 78
+  },
+  {
+    "codigo": 2,
+    "descricao": "Lateral 2",
+    "ladoA": 54,
+    "ladoB": 52
+  },
+  {
+    "codigo": 7,
+    "descricao": "Fundo da caixa",
+    "ladoA": 58,
+    "ladoB": 189
+  },
+  {
+    "codigo": 8,
+    "descricao": "Canto do balcão",
+    "ladoA": 548,
+    "ladoB": 657
+  },
+  {
+    "codigo": 9,
+    "descricao": "canto da pia",
+    "ladoA": 547,
+    "ladoB": 640
+  },
+  {
+    "codigo": 5,
+    "descricao": "Teste decimal",
+    "ladoA": 15.5,
+    "ladoB": 18.3
+  },
+  {
+    "codigo": 6,
+    "descricao": "Porta A",
+    "ladoA": 58,
+    "ladoB": 23
+  },
+  {
+    "codigo": 105,
+    "descricao": "lateral",
+    "ladoA": 100,
+    "ladoB": 100
+  }
+]

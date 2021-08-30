@@ -1,0 +1,53 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:interface_01"
+        xmlns:Numerics="clr-namespace:System.Numerics;assembly=System.Runtime.Numerics" xmlns:System="clr-namespace:System;assembly=System.Runtime" xmlns:VisualBasic="clr-namespace:Microsoft.VisualBasic;assembly=Microsoft.VisualBasic.Core" x:Name="frmCadastroPeca" x:Class="interface_01.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="572" MaxWidth="572" MaxHeight="445" MinWidth="572" MinHeight="445">
+    <Grid Margin="0,0,0,0" MaxWidth="552" MaxHeight="450">
+        <Frame x:Name="frmCadastro" Content="Cadastro de peça" Height="413" VerticalAlignment="Top"/>
+        <Label x:Name="lblCodigoPeca" Content="Código da peça" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCodigoPeca" HorizontalAlignment="Left" Margin="120,51,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="74" MaxLines="1" MaxLength="10" TextAlignment="Right" PreviewTextInput="txtCodigoPeca_PreviewTextInput"/>
+        <Label x:Name="lblDescricaoPeca" Content="Descrição da peça" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDimensaoPeca" Content="Dimensão da peça" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.953,-0.74"/>
+        <TextBox x:Name="txtDescricaoPeca" HorizontalAlignment="Left" Margin="120,73,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="120" MaxLines="1"/>
+        <TextBox x:Name="txtLadoA" HorizontalAlignment="Left" Margin="120,96,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="72" MaxLines="1" PreviewTextInput="txtLadoA_PreviewTextInput">
+            <TextBox.DataContext>
+                <System:Double/>
+            </TextBox.DataContext>
+        </TextBox>
+        <Label x:Name="lblX" Content="X" HorizontalAlignment="Left" Margin="197,92,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtLadoB" HorizontalAlignment="Left" Margin="219,96,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="72" MaxLines="1" PreviewTextInput="txtLadoB_PreviewTextInput">
+            <TextBox.DataContext>
+                <System:Double/>
+            </TextBox.DataContext>
+        </TextBox>
+        <Button x:Name="btnSalvar" Content="Salvar" HorizontalAlignment="Left" Margin="338,95,0,0" VerticalAlignment="Top" Click="btnSalvar_Click" Width="64"/>
+        <DataGrid x:Name="lstDados" Margin="10,187,10,58" IsSynchronizedWithCurrentItem="True" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ColumnWidth="Auto">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding codigoPeca}" Header="Código"/>
+                <DataGridTextColumn Binding="{Binding descricaoPeca}" Header="Descrição"/>
+                <DataGridTextColumn Binding="{Binding dimensaoPeca}" Header="Dimensão"/>
+            </DataGrid.Columns>
+            <DataGrid.DataContext>
+                <local:DadosPeca/>
+            </DataGrid.DataContext>
+
+        </DataGrid>
+        <Button x:Name="btnExcluir" Content="Excluir" HorizontalAlignment="Left" Margin="502,369,0,0" VerticalAlignment="Top" Click="btnExcluir_Click"/>
+        <Button x:Name="btnAlterar" Content="Alterar" HorizontalAlignment="Left" Margin="424,369,0,0" VerticalAlignment="Top" Click="btnAlterar_Click"/>
+        <Label x:Name="lblPesquisarPor" Content="Pesquisar por" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbxPesquisarPor" HorizontalAlignment="Left" Margin="120,129,0,0" VerticalAlignment="Top" Width="94" IsReadOnly="True" IsDropDownOpen="False">
+            <ComboBoxItem>Código</ComboBoxItem>
+            <ComboBoxItem>Descrição</ComboBoxItem>
+            <ComboBoxItem>Dimensão</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="txtPesquisarPor" HorizontalAlignment="Left" Margin="228,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="293"/>
+        <Button x:Name="btnPesquisarPor" Content="Pesquisar" HorizontalAlignment="Left" Margin="374,153,0,0" VerticalAlignment="Top" Click="btnPesquisarPor_Click"/>
+        <Button x:Name="btnLimparPesquisa" Content="Limpar" HorizontalAlignment="Left" Margin="481,153,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.812,0.603" Click="btnLimparPesquisa_Click"/>
+
+    </Grid>
+</Window>
